@@ -5,7 +5,7 @@
 
 
 ## Quick references
-Author | Description | My favorite university subjects | Online VS Offline studying | My favorite math formulas | My coding skills | The image I like |
+[Author](#author) | [Description](#description) | [My favorite university subjects](#my-favorite-university-subjects)| [Online VS Offline studying](#online-vs-offline-studying) | [My favorite math formulas](#my-favorite-math-formulas) | [My coding skills](#my-coding-skills) | [The image I like](#the-image-i-like) |
 
 ## Author
 * Name: Kyrylo Kostiuk 
@@ -82,4 +82,4 @@ Use this [web-compiler](https://cpp.sh) to check the code out. In this example, 
 
 ## The image I like
 Here is the image I personally like: it represents a place I have been to once and which still makes me feel better.
-![Image](image.png)
+![Image](images/image.png)
