@@ -1,7 +1,8 @@
 # GitHub-Intro
 
-![Static Badge](https://img.shields.io/badge/NTU_KhPI-CS--126-red)
-![Static Badge](https://img.shields.io/badge/git-blue)
+![Static Badge](https://img.shields.io/badge/NTU_"KhPI"-CS--126-navy) 
+![Static Badge](https://img.shields.io/badge/git-grey?logo=git)
+
 
 ## Quick references
 Author | Description | My favorite university subjects | Online VS Offline studying | My favorite math formulas | My coding skills | The image I like |
@@ -30,264 +31,55 @@ Here is what I think about each of the studying options:
 ## My favorite math formulas
 Here are some of my favorite math formulas:
 
-Here are some of my favorite math formulas:
 
-y
-=
-α
-x
-2
-+
-β
-x
-+
-γ
+$$
+y = \alpha x^2 + \beta x + \gamma
+$$
 
-– this is the parabolic function: 
-α
-, 
-β
-, 
-γ
- are coefficients, and 
-x
- is the input variable.
+, - this is the parabolic function formula: $\alpha, \beta, \gamma$ are coefficients, and $x$ denotes input variable;
 
-y
-=
-δ
-ε
-x
-+
-c
+$$
+y = \frac{k_1}{k_2x + c}
+$$
 
-– this is a hyperbolic function: 
-δ
-, 
-ε
- are coefficients, 
-x
- is the input variable, 
-c
- is a constant.
+, - this is the modified hyperbolic function: $k_1, k_2$ denote coefficients, $x$ - input variable, $c$ - constant value;
 
-D
-=
-b
-2
-−
-4
-a
-c
-,
-x
-1
-=
-−
-b
-+
-D
-2
-a
-,
-x
-2
-=
-−
-b
-−
-D
-2
-a
+$$
+D = b^2 - 4ac, x_1 = \frac{-b + \sqrt{D}}{2a}, x_2 = \frac{-b - \sqrt{D}}{2a}
+$$
 
-– this is how to solve a quadratic equation: 
-D
- is the discriminant, 
-a
-, 
-b
-, 
-c
- are the equation's coefficients, 
-x
-1
-, 
-x
-2
- are the solutions.
+, - this is how to solve quadratic equation: $D$ is discriminant, $a, b, c$ denote equation's coefficients, $x_1, x_2$ denote the solutions;
 
-{
-2
-x
-+
-3
-y
-−
-z
-=
-7
-4
-x
-−
-y
-+
-2
-z
-=
-4
-−
-x
-+
-2
-y
-+
-5
-z
-=
-11
+$$
+\begin{cases} 2x + 3y - z = 7 \\ 4x - y + 2z = 4 \\ -x + 2y + 5z = 11 \end{cases}
+$$
 
-– this is a system of linear equations: 
-x
-, 
-y
-, 
-z
- are the unknown variables.
+, - this is a system of linear equations: $x, y, z$ denote the unknown variables;
 
-∑
-i
-=
-1
-n
-i
-=
-n
-(
-n
-+
-1
-)
-2
+$$
+\sum_{i=1}^{n} i = \frac{n(n+1)}{2}
+$$
 
-– this is the formula for the sum of the first 
-n
- positive integers, where 
-i
- is the summation index.
+, - this is formula for finding the sum of first $N$ positive integers;
 
-f
-(
-x
-)
-=
-1
-σ
-2
-π
-,
-e
-−
-(
-x
-−
-μ
-)
-2
-2
-σ
-2
+$$
+I_n = \begin{bmatrix} 1 & 0 & \dots & 0 \\ 0 & 1 & \dots & 0 \\ \vdots & \vdots & \ddots & \vdots \\ 0 & 0 & \dots & 1 \end{bmatrix}
+$$
 
-– this is the normal (Gaussian) distribution density: 
-μ
- is the mean, 
-σ
- is the standard deviation, 
-x
- is the random variable.
-
-e
-i
-φ
-=
-cos
-⁡
-φ
-+
-i
-sin
-⁡
-φ
-
-– this is Euler's formula: 
-φ
- is an angle in radians, 
-i
- is the imaginary unit.
-
-∫
-0
-∞
-e
-−
-λ
-x
-,
-d
-x
-=
-1
-λ
-
-– this is an integral of the exponential function: 
-λ
->
-0
- is the decay rate, 
-x
- is the integration variable.
-
-I
-n
-=
-[
-1
-0
-⋯
-0
-0
-1
-⋯
-0
-⋮
-⋮
-⋱
-⋮
-0
-0
-⋯
-1
-]
-
-– this is the identity matrix of size 
-N
-×
-N
-, where 
-n
-=
-N
-.
+, - this is an identity matrix of rank $N$.
 
 ## My coding skills
 I am skilled enough to do some coding – here is one of the examples:
-
+```
 #include <iostream>
 
 int main() {
     std::cout << "Hello, GitHub!" << std::endl;
     return 0;
 }
-Use this web-compiler to check the code out. In this example, the main() function prints the "Hello, GitHub!" message and then finishes the program.
+```
+Use this [web-compiler](https://cpp.sh) to check the code out. In this example, the `main()` function prints the "Hello, GitHub!" message and then finishes the program.
 
 ## The image I like
 Here is the image I personally like: it represents a place I have been to once and which still makes me feel better.
+![Image](image.png)
