@@ -1,4 +1,4 @@
-# GitHub-Intro
+# My first repository
 
 ![Static Badge](https://img.shields.io/badge/NTU_"KhPI"-CS--126-navy) 
 ![Static Badge](https://img.shields.io/badge/git-grey?logo=git)
